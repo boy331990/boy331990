@@ -48,9 +48,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
         alt="linux" width="25" height="25" />
     </a>
-    
-    
-    
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
         alt="mariadb" width="25" height="25" />
