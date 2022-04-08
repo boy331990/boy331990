@@ -6,8 +6,11 @@
 
 ## Hi there, I'm dongwook 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boy331990" alt="boy331990" /></a> </p>
+<a href="https://github.com/boy331990" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
+### Summary
 - 🌱 I’m currently learning **Spring, Spring Boot, React**
 
 - 👨‍💻 All of my projects are available at [https://boy331990.github.io/](https://boy331990.github.io/)
@@ -34,3 +37,17 @@
 </td></tr></table>
 
 <br/>
+
+<!--
+**boy331990/boy331990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- ...
+-->
