@@ -35,7 +35,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" />
         </a>
-        
+        <br/>
         <li>Backend Development</li>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -50,7 +50,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="30" height="30" />
         </a>
-        
+        <br/>
         <li>Frontend Development</li>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img
@@ -76,7 +76,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="30" height="30" />
         </a> 
-        
+        <br/>
         <li>Database</li>
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -92,7 +92,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="30" height="30" />
         </a>
-        
+        <br/>
         <li>Other</li>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img
