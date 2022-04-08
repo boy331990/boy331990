@@ -12,12 +12,14 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=boy331990@gmail.com" alt=gmail style="margin-bottom: 5px;"/>
 </a>
 
+<br/>
 
 ### Summary
 - 🔭 I’m currently working on [INFOIN](http://in4in.com/) as a web developer
 - 🌱 I’m currently learning **Spring, Spring Boot, Node, React**
 - 👨‍💻 All of my projects are available at [https://boy331990.github.io/](https://boy331990.github.io/)
 
+<br/>
 
 ### Tech Stack
 <p align="left">Techs that I've used at least once</p>
@@ -99,9 +101,10 @@
     </a>
 </p>
 
+<br/><br/>
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
+<table style="width: 100%"><tr><td valign="top" width="50%">
     
 <img src="https://github-readme-stats.vercel.app/api?username=boy331990&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
