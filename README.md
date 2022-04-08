@@ -48,6 +48,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
         alt="linux" width="25" height="25" />
     </a>
+    <br/>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
         alt="mariadb" width="25" height="25" />
@@ -62,9 +63,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
         alt="oracle" width="25" height="25" />
     </a>
-    
-    
-    
+    <br/>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -94,14 +93,12 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="25" height="25" />
     </a> 
-    
-    
-    
+    <br/>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git" width="25" height="25" />
-    </a> 
-    
+    </a>
+    <br/>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
         alt="arduino" width="25" height="25" />
