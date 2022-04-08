@@ -6,9 +6,11 @@
 ## Hi there, I'm dongwook 👋
 
 <a href="https://github.com/boy331990" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:boy331990@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boy331990@gmail.com"/></a>
+<a href="mailto:boy331990@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boy331990@gmail.com" alt=gmail style="margin-bottom: 5px;"/>
+</a>
 
 
 ### Summary
