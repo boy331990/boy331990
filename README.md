@@ -1,8 +1,10 @@
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=boy331990&label=Profile%20views&color=0e75b6&style=flat" alt="boy331990" /> 
+</p>
 
-## Hi 👋, I'm dongwook
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boy331990&label=Profile%20views&color=0e75b6&style=flat" alt="boy331990" /> </p>
+## Hi there, I'm dongwook 👋
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boy331990" alt="boy331990" /></a> </p>
 
