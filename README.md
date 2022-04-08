@@ -21,11 +21,9 @@
 
 <br/>
 
-### Tech Stack
-<p align="left">Techs that I've used at least once</p>
-
+### Tech Stack(Techs that I've used at least once)
 <p align="left">
-    ####Programming Languages
+    <p align="left">Programming Languages</p>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
