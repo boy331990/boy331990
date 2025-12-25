@@ -15,8 +15,8 @@
 <br/>
 
 ### Summary
-- 🔭 I’m currently working on [INFOIN](http://in4in.com/) as a web developer
-- 🌱 I’m currently learning **Spring, Spring Boot, Node, React**
+- 🔭 I’m currently working on [HIST](https://www.hist.co.kr/) as a web developer
+- 🌱 I’m currently learning **Spring, Spring Boot, Node, React, AWS**
 - 👨‍💻 All of my projects are available at [https://boy331990.github.io/](https://boy331990.github.io/)
 
 <br/>
